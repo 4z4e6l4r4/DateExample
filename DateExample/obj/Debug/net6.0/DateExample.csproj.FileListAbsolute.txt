@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\bin\Debug\net6.0\DateExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\bin\Debug\net6.0\DateExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\bin\Debug\net6.0\DateExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\bin\Debug\net6.0\DateExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\bin\Debug\net6.0\DateExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\refint\DateExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\DateExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DateExample\DateExample\obj\Debug\net6.0\ref\DateExample.dll
